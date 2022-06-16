@@ -13,7 +13,8 @@ body{background:url(../images/beijing.jpg)no-repeat top #1E1212;
 	 background-size:contain ;
 	 width:1000px;
 	 margin:0 auto; 
-	 line-height:21px;}
+	 line-height:21px;
+	 font-weight:700;}
 
 .clear{ clear:both}
 
