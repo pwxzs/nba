@@ -20,7 +20,9 @@ body{background:url(../images/beijing.jpg)no-repeat top #1E1212;
 
 .menu li{     list-style:none; 
 	      font-weight:bold; 
-	      text-decoration:underline;}
+	      text-decoration:none;}
+.menu ul li a:hover{ background: #2347bb;
+		     transition: .5s;
 
 .logo{ position:absolute; 
 	    top:50px; 
@@ -38,7 +40,7 @@ body{background:url(../images/beijing.jpg)no-repeat top #1E1212;
 .menu li a{      background:#000; 
 	         border:#fff solid 1px; 
 		 padding:5px;
-		 color:#9F0;}
+		 color:#ffd700;}
 
 .menu li {    float:left; 
 	      padding:15px 30px ; 
